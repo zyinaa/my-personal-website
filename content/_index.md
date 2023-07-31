@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2023-7-24"
 sections:
 
 - block: about.biography
@@ -21,17 +21,14 @@ sections:
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
+    - icon: weixin
       icon_pack: fab
-      link: https://twitter.com/Twitter
+      link: uploads/wechat.jpg
       name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
+
     - icon: video
       icon_pack: fas
-      link: https://zoom.com
+      link: https://hkust.zoom.us/j/5049593233
       name: Zoom Me
     directions: Enter LSK building, Room 4049C on 4th floor
     email: imyin@ust.hk
@@ -46,8 +43,7 @@ sections:
     - Wednesday 09:00 to 10:00
     phone: +852 6990 7864/ +86 181 63524285
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: If you take interests in the research fields and my background, please contact me directly to have further talk. For any inquiries or questions, feel free to leave your messages and send me email.
     title: Contact
   design:
     columns: "2"
