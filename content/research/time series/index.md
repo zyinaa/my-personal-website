@@ -8,8 +8,8 @@ image:
   focal_point: ""
 lastMod: "2023-07-25T00:00:00Z"
 projects: []
-subtitle: This project is a my final year's capstone project in 2021
-summary: This project is a my final year's capstone project in 2021
+subtitle: This project is my final year's capstone project in 2021
+summary: This project is my final year's capstone project in 2021
 tags: []
 url_pdf: "uploads/Time Series Analysis in Stock Market and its Application to Portfolio Optimization.pdf"
 # url_slides: "uploads/MATH4999 Regular Meeting Record.pptx"

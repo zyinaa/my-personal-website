@@ -17,15 +17,15 @@ main:
     weight: 30
     
 
-#  - name: Publications
-#    url: publication/
-#    weight: 40
+ # - name: Publications
+  #  url: publication/
+   # weight: 40
  
 
  
-#  - name: Literature Review
-#    url: post/
-#    weight: 40
+  - name: Literature Review
+    url: literature/
+    weight: 50
     
   - name: CV
     url: uploads/resume.pdf
@@ -33,7 +33,7 @@ main:
 
   - name: Post
     url: post/
-    weight: 50
+    weight: 80
     
   - name: Contact
     url: '#contact'
