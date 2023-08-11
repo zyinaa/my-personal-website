@@ -9,7 +9,7 @@ image:
 lastMod: "2023-08-03T00:00:00Z"
 projects: []
 subtitle: list of literatures that I have viewed or currently viewing
-summary: Justin, Yifu LIN, is one of the most admirable and revered economists, his insights and ideologies of China's economy are the enlightenment for me.
+summary: My readings of macroeconomics topics including real estate problems, agrarian problems, urbanization and land issues.
 
 title: Development, agriculture, macro economics
 tags: ["Ecomomics", "Development", "China's economy", "Agriculture"]
