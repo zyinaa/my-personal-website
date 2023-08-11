@@ -9,7 +9,7 @@ email: ""
 first_name: Enoch
 highlight_name: true
 interests:
-- Development economics
+- Macroeconomics
 - Agricultural economics
 - Machine learning and Deep learning
 - Financial mathematics
