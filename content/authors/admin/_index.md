@@ -1,5 +1,5 @@
 ---
-bio: My research interests involve topics including agrarian problems, urbanization and land questions with statistical and mathematical methods optimizing the model. And implementing machine learning algorithms in financial market and big data research.
+bio: My research interests involve topics including supply chain, agrarian problems, urbanization and land questions with statistical and mathematical methods optimizing the model. And implementing machine learning algorithms in financial market and big data research.
 education:
   courses:
   - course: BSc in Mathematics
@@ -10,7 +10,7 @@ first_name: Enoch
 highlight_name: true
 interests:
 - Operational research & statistics
-- Machine learning and Deep learning
+- Machine learning 
 - Financial mathematics
 - Maceoeconomics
 last_name: YIN
@@ -47,6 +47,6 @@ title: Enoch YIN 尹震东
 ---
 
 Hi, welcome to my homepage where you can learn my background and check on my updates. \
-I got my Bachelor of science degree in mathematics at HKUST in 2021, while my major is statistics and financial math. My final year's capstone project is on time series analysis and its application to portfolio optimization. Since graduation, I have been working on my current position as an Instructional Assistant and Research Assistant of operational management division of ISOM department. I have been collaborating the work with my supervisors, and working on operation research projects with methods of machine learning, deep learning, classification and clustering, sentiment analysis, time series and so on. \
-My research interests involve topics of agrarian development, urbanization and land questions. And use statistical and mathematical methods to optimize the models. And implementing machine learning algorithms in financial market and big data research.
+I got my Bachelor of science degree in mathematics at HKUST in 2021, while my major is statistics and financial math. My final year's capstone project is on time series analysis and its application to portfolio optimization. Since graduation, I have been working on my current position as an Instructional Assistant and Research Assistant of operational management division of ISOM department. I have been collaborating the work with my supervisors, and working on operation research projects with methods of machine learning, reinforcement learning, classification and clustering, sentiment analysis, time series and so on. \
+My research interests involve topics of supply chain, agrarian development, urbanization and land questions. And use statistical and mathematical methods to optimize the models. And implement machine learning algorithms in financial market and big data research.
 {style="text-align: justify;"}

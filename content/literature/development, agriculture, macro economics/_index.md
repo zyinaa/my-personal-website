@@ -38,4 +38,4 @@ Scheinkman, J. A., & Xiong, W. (2003). **Overconfidence and Speculative Bubbles.
 
 ### BOOKS
 
-Garnaut, R., Song, L., & Fang, C. (Eds.). (2018). *China\'s 40 Years of Reform and Development: 1978--2018*. ANU Press. <http://www.jstor.org/stable/j.ctv5cgbnk>
+Garnaut, R., Song, L., & Fang, C. (Eds.). (2018). *China's 40 Years of Reform and Development: 1978--2018*. ANU Press. <http://www.jstor.org/stable/j.ctv5cgbnk>
