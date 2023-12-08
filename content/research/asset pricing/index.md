@@ -13,7 +13,7 @@ summary: On-going research paper
 tags: []
 # url_pdf: "uploads/Time Series Analysis in Stock Market and its Application to Portfolio Optimization.pdf"
 # url_slides: "uploads/MATH4999 Regular Meeting Record.pptx"
-title: Empirical assset pricing in forex market via machine learning 
+title: Empirical asset pricing in forex market via machine learning 
 tags: ["Research", "asset pricing", "machine learning", "statistics", "economics",'finance']
 ---
 
