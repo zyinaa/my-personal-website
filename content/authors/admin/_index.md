@@ -12,7 +12,7 @@ interests:
 - Operational research & statistics
 - Machine learning 
 - Financial mathematics
-- Maceoeconomics
+- Macroeconomics
 last_name: YIN
 organizations:
 - name: The Hong Kong University of Science and Technology
